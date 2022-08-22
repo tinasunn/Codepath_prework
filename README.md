@@ -1,6 +1,6 @@
 # Codepath_prework
 codepath prework project 
-## NAME_OF_YOUR_APP_HERE
+## prework - hello app
 
 ### App Description
 `TODO://` Add app description
