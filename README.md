@@ -1,6 +1,4 @@
-# Codepath_prework
-codepath prework project 
-## prework - hello app
+## NAME_OF_YOUR_APP_HERE
 
 ### App Description
 `TODO://` Add app description
@@ -26,3 +24,6 @@ codepath prework project
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [ ] c. If the text field is empty, update label with default text string.
    - [ ] d. The keyboard is dismissed after the button has been tapped
+
+![](https://i.imgur.com/Q5QeLd1.gif)
+
